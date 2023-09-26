@@ -1,2 +1,4 @@
 Bom Dia!
     Como está?
+
+Adeus
